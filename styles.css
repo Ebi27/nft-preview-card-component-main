@@ -7,19 +7,23 @@
 body {
   font-family: "Outfit", sans-serif;
   background-color: hsl(217, 54%, 11%);
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  min-height: 100vh;
 }
 img {
   max-width: 100%;
-  border-radius: 6px;
+  border-radius: 12px;
 }
 .container .main:hover {
   background-color: hsl(178, 100%, 50%);
-  background-image: .images/;
+
 }
 .container {
   background-color: hsl(216, 50%, 16%);
   padding: 1.2rem;
-  border-radius: 0.5rem;
+  border-radius: 1.0rem;
   margin-bottom: 2rem;
 }
 .container h2 {
@@ -36,8 +40,8 @@ cursor:pointer;
   list-style: none;
   display: flex;
   justify-content: space-between;
-  padding: 1.2rem;
-  margin: 10px;
+  padding-right: 1.2rem;
+  margin: 12px;
   border-bottom: 1px solid hsl(215, 32%, 27%);
 }
 .container .main-image {
@@ -62,11 +66,12 @@ opacity:1;
     top:50%;
     transform: translate(-50%, -50%)
 }
-.container .main-image
+
 .container p {
   color: hsl(0, 0%, 100%);
   opacity: 0.5;
   font-weight: 300;
+  padding: 0.5rem;
 }
 .container .avatar p {
     margin-right: 3px;
@@ -78,9 +83,6 @@ opacity:1;
 .container ul li:last-child {
   color: hsl(0, 0%, 100%);
   opacity: 0.5;
-}
-.container ul li {
-  display: flex;
 }
 .container ul img {
   margin-right: 0.5rem;
