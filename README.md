@@ -22,7 +22,7 @@ The idea of the challenge is to clone a preview card and Users should be able to
 
 ### Links
 
-- Solution URL: [https://mystifying-thompson-834f67.netlify.app/]
+- Solution URL: [https://ebikpemi-ogokimi-nft-previewcard.netlify.app/]
 - Live Site URL: [http://127.0.0.1:5500/index.html]
 
 ## My process
