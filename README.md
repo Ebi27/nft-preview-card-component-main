@@ -44,6 +44,8 @@ I started off with the HTML and proceeded with the CSS afterwhich i got stuck fo
 
 3. Most importantly, i was able to properly learn css content boxing and practiced my flexbox as well. This has been by biggest problem recently. 
 
+4. I learnt how to deploy my project using github and netlify. Github was very confusing for me ( still is ) but i was forced to learn how to work the repo and have my project hosted using netlify ( very exciting!)
+
 This is my first project and i'm even more excited to start the next one. 
 
 
